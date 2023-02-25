@@ -1,0 +1,11 @@
+[
+    {
+        "category": "PHONE_NUMBER",
+        "purposes": [
+            "ANALYTICS"
+        ],
+        "data_protections": [
+            "DATA_NOT_LINKED_TO_YOU"
+        ]
+    }
+]
